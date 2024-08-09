@@ -1,0 +1,182 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+}
+
+table,
+tr,
+td {
+    border: 1px solid #fff;
+    border-collapse: collapse;
+}
+
+#table1 {
+    margin: 2rem 4rem;
+}
+
+#table2 {
+    margin: 2rem 17.3rem;
+}
+
+.White {
+    background-color: #fff;
+}
+
+.light-cyan {
+    background: #6eb69f;
+    text-align: center;
+    padding: 5px 8px;
+    color: #fff;
+    transition: 0.6s;
+}
+
+.light-cyan:hover {
+    border-radius: 12px;
+    transform: scale(1.3);
+    z-index: 2;
+}
+
+.yellow {
+    background: #fee003;
+    text-align: center;
+    padding: 5px 8px;
+    color: #fff;
+    transition: 0.6s;
+}
+
+.yellow:hover {
+    border-radius: 12px;
+    transform: scale(1.3);
+    z-index: 2;
+}
+
+.orange {
+    background: #f9af10;
+    text-align: center;
+    padding: 5px 8px;
+    color: #fff;
+    transition: 0.6s;
+}
+
+.orange:hover {
+    border-radius: 12px;
+    transform: scale(1.3);
+    z-index: 2;
+}
+
+.purple {
+    background: #8b2be1;
+    text-align: center;
+    padding: 5px 8px;
+    color: #fff;
+    transition: 0.6s;
+}
+
+.purple:hover {
+    border-radius: 12px;
+    transform: scale(1.3);
+    z-index: 2;
+}
+
+.cyan {
+    background: #62b0ce;
+    text-align: center;
+    padding: 5px 8px;
+    color: #fff;
+    transition: 0.6s;
+}
+
+.cyan:hover {
+    border-radius: 12px;
+    transform: scale(1.3);
+    z-index: 2;
+}
+
+.red {
+    background: #d92443;
+    text-align: center;
+    padding: 5px 8px;
+    color: #fff;
+    transition: 0.6s;
+}
+
+.red:hover {
+    border-radius: 12px;
+    transform: scale(1.3);
+    z-index: 2;
+}
+
+.gray {
+    background: #9c9c9c;
+    text-align: center;
+    padding: 5px 8px;
+    color: #fff;
+    transition: 0.6s;
+}
+
+.gray:hover {
+    border-radius: 12px;
+    transform: scale(1.3);
+    z-index: 2;
+}
+
+.black {
+    background: #100e31;
+    text-align: center;
+    padding: 5px 8px;
+    color: #fff;
+    transition: 0.6s;
+}
+
+.black:hover {
+    border-radius: 12px;
+    transform: scale(1.3);
+    z-index: 2;
+}
+
+.blue {
+    background: #6066e9;
+    text-align: center;
+    padding: 5px 8px;
+    color: #fff;
+    transition: 0.6s;
+}
+
+.blue:hover {
+    border-radius: 12px;
+    transform: scale(1.3);
+    z-index: 2;
+}
+
+.peach {
+    background: #f94045;
+    text-align: center;
+    padding: 5px 8px;
+    color: #fff;
+    transition: 0.6s;
+}
+
+.peach:hover {
+    border-radius: 12px;
+    transform: scale(1.3);
+    z-index: 2;
+}
+
+.light-green {
+    background: #73c123;
+    text-align: center;
+    padding: 5px 8px;
+    color: #fff;
+    transition: 0.6s;
+}
+
+.light-green:hover {
+    border-radius: 12px;
+    transform: scale(1.3);
+    z-index: 2;
+}
